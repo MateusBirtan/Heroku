@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-#
+# YEAH
 # A *bookmark server* or URI shortener.
 
 import http.server
